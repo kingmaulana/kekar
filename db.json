@@ -1,0 +1,303 @@
+{
+  "users": [],
+  "wishlist": [
+  ],
+  "products": [
+    {
+      "name": "NitroPump Pre-Workout",
+      "slug": "nitropump-pre-workout",
+      "description": "A high-performance pre-workout formula to maximize energy, focus, and endurance.",
+      "excerpt": "Boost your workout intensity with NitroPump Pre-Workout!",
+      "price": 399000,
+      "tags": [
+        "pre-workout",
+        "energy",
+        "focus"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/NitroPump%20Pre-Workout",
+      "images": [
+        "https://image.pollinations.ai/prompt/NitroPump%20Pre-Workout%201",
+        "https://image.pollinations.ai/prompt/NitroPump%20Pre-Workout%202"
+      ]
+    },
+    {
+      "name": "HyperMass Gainer",
+      "slug": "hypermass-gainer",
+      "description": "A premium mass gainer to help you build size and strength effectively.",
+      "excerpt": "Gain mass and muscle with HyperMass Gainer!",
+      "price": 549000,
+      "tags": [
+        "mass gainer",
+        "protein",
+        "muscle"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/HyperMass%20Gainer",
+      "images": [
+        "https://image.pollinations.ai/prompt/HyperMass%20Gainer%201",
+        "https://image.pollinations.ai/prompt/HyperMass%20Gainer%202"
+      ]
+    },
+    {
+      "name": "AminoBoost BCAA",
+      "slug": "aminoboost-bcaa",
+      "description": "Essential BCAAs to speed up muscle recovery and reduce soreness.",
+      "excerpt": "Recover faster and train harder with AminoBoost BCAA!",
+      "price": 289000,
+      "tags": [
+        "BCAA",
+        "recovery",
+        "muscle"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/AminoBoost%20BCAA",
+      "images": [
+        "https://image.pollinations.ai/prompt/AminoBoost%20BCAA%201",
+        "https://image.pollinations.ai/prompt/AminoBoost%20BCAA%202"
+      ]
+    },
+    {
+      "name": "MaxCreatine Monohydrate",
+      "slug": "maxcreatine-monohydrate",
+      "description": "Pure micronized creatine monohydrate for explosive strength and power.",
+      "excerpt": "Increase your strength and endurance with MaxCreatine!",
+      "price": 259000,
+      "tags": [
+        "creatine",
+        "strength",
+        "performance"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/MaxCreatine%20Monohydrate",
+      "images": [
+        "https://image.pollinations.ai/prompt/MaxCreatine%20Monohydrate%201",
+        "https://image.pollinations.ai/prompt/MaxCreatine%20Monohydrate%202"
+      ]
+    },
+    {
+      "name": "OmegaFit Fish Oil",
+      "slug": "omegafit-fish-oil",
+      "description": "High-quality fish oil to support heart health and joint function.",
+      "excerpt": "Boost your overall wellness with OmegaFit Fish Oil!",
+      "price": 199000,
+      "tags": [
+        "omega-3",
+        "heart health",
+        "joint support"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/OmegaFit%20Fish%20Oil",
+      "images": [
+        "https://image.pollinations.ai/prompt/OmegaFit%20Fish%20Oil%201",
+        "https://image.pollinations.ai/prompt/OmegaFit%20Fish%20Oil%202"
+      ]
+    },
+    {
+      "name": "UltraWhey Protein",
+      "slug": "ultrawhey-protein",
+      "description": "A premium whey protein blend for muscle growth and recovery.",
+      "excerpt": "Fuel your muscles with UltraWhey Protein!",
+      "price": 499000,
+      "tags": [
+        "whey protein",
+        "muscle",
+        "recovery"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/UltraWhey%20Protein",
+      "images": [
+        "https://image.pollinations.ai/prompt/UltraWhey%20Protein%201",
+        "https://image.pollinations.ai/prompt/UltraWhey%20Protein%202"
+      ]
+    },
+    {
+      "name": "ThermoBurn Fat Burner",
+      "slug": "thermoburn-fat-burner",
+      "description": "A powerful fat-burning formula to help you achieve your weight loss goals.",
+      "excerpt": "Burn fat faster with ThermoBurn Fat Burner!",
+      "price": 379000,
+      "tags": [
+        "fat burner",
+        "weight loss",
+        "metabolism"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/ThermoBurn%20Fat%20Burner",
+      "images": [
+        "https://image.pollinations.ai/prompt/ThermoBurn%20Fat%20Burner%201",
+        "https://image.pollinations.ai/prompt/ThermoBurn%20Fat%20Burner%202"
+      ]
+    },
+    {
+      "name": "ZMA Recovery Blend",
+      "slug": "zma-recovery-blend",
+      "description": "A unique blend of zinc, magnesium, and vitamin B6 to enhance muscle recovery and sleep.",
+      "excerpt": "Improve sleep and recovery with ZMA Recovery Blend!",
+      "price": 229000,
+      "tags": [
+        "ZMA",
+        "sleep support",
+        "muscle recovery"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/ZMA%20Recovery%20Blend",
+      "images": [
+        "https://image.pollinations.ai/prompt/ZMA%20Recovery%20Blend%201",
+        "https://image.pollinations.ai/prompt/ZMA%20Recovery%20Blend%202"
+      ]
+    },
+    {
+      "name": "ElectroHydrate Electrolytes",
+      "slug": "electrohydrate-electrolytes",
+      "description": "Replenish essential electrolytes and stay hydrated during workouts.",
+      "excerpt": "Stay hydrated with ElectroHydrate Electrolytes!",
+      "price": 189000,
+      "tags": [
+        "hydration",
+        "electrolytes",
+        "endurance"
+      ],
+      "thumbnail": "https://image.pollinations.ai/prompt/ElectroHydrate%20Electrolytes",
+      "images": [
+        "https://image.pollinations.ai/prompt/ElectroHydrate%20Electrolytes%201",
+        "https://image.pollinations.ai/prompt/ElectroHydrate%20Electrolytes%202"
+      ]
+    },
+    {
+      "name": "VitaMax Multivitamin",
+      "slug": "vitamax-multivitamin",
+      "description": "A daily multivitamin packed with essential nutrients to support overall health.",
+      "excerpt": "Stay healthy and energized with VitaMax Multivitamin!",
+      "price": 179000,
+      "tags": ["multivitamin", "health", "energy"],
+      "thumbnail": "https://image.pollinations.ai/prompt/VitaMax%20Multivitamin",
+      "images": [
+        "https://image.pollinations.ai/prompt/VitaMax%20Multivitamin%201",
+        "https://image.pollinations.ai/prompt/VitaMax%20Multivitamin%202"
+      ]
+    },
+    {
+      "name": "TestoBoost Testosterone Support",
+      "slug": "testoboost-testosterone-support",
+      "description": "A natural testosterone booster to enhance muscle growth and vitality.",
+      "excerpt": "Boost your strength and performance with TestoBoost!",
+      "price": 369000,
+      "tags": ["testosterone", "strength", "vitality"],
+      "thumbnail": "https://image.pollinations.ai/prompt/TestoBoost%20Testosterone%20Support",
+      "images": [
+        "https://image.pollinations.ai/prompt/TestoBoost%20Testosterone%20Support%201",
+        "https://image.pollinations.ai/prompt/TestoBoost%20Testosterone%20Support%202"
+      ]
+    },
+    {
+      "name": "JointFlex Collagen",
+      "slug": "jointflex-collagen",
+      "description": "A hydrolyzed collagen supplement to support joint and skin health.",
+      "excerpt": "Keep your joints strong with JointFlex Collagen!",
+      "price": 259000,
+      "tags": ["collagen", "joint support", "skin health"],
+      "thumbnail": "https://image.pollinations.ai/prompt/JointFlex%20Collagen",
+      "images": [
+        "https://image.pollinations.ai/prompt/JointFlex%20Collagen%201",
+        "https://image.pollinations.ai/prompt/JointFlex%20Collagen%202"
+      ]
+    },
+    {
+      "name": "SuperGreens Detox",
+      "slug": "supergreens-detox",
+      "description": "A superfood greens blend to detoxify and boost immunity.",
+      "excerpt": "Cleanse your body with SuperGreens Detox!",
+      "price": 299000,
+      "tags": ["greens", "detox", "immunity"],
+      "thumbnail": "https://image.pollinations.ai/prompt/SuperGreens%20Detox",
+      "images": [
+        "https://image.pollinations.ai/prompt/SuperGreens%20Detox%201",
+        "https://image.pollinations.ai/prompt/SuperGreens%20Detox%202"
+      ]
+    },
+    {
+      "name": "MegaCarbs Energy Fuel",
+      "slug": "megacarbs-energy-fuel",
+      "description": "A fast-digesting carbohydrate supplement for sustained energy and endurance.",
+      "excerpt": "Fuel your workouts with MegaCarbs Energy Fuel!",
+      "price": 279000,
+      "tags": ["carbs", "energy", "endurance"],
+      "thumbnail": "https://image.pollinations.ai/prompt/MegaCarbs%20Energy%20Fuel",
+      "images": [
+        "https://image.pollinations.ai/prompt/MegaCarbs%20Energy%20Fuel%201",
+        "https://image.pollinations.ai/prompt/MegaCarbs%20Energy%20Fuel%202"
+      ]
+    },
+    {
+      "name": "L-Carnitine Fat Metabolizer",
+      "slug": "l-carnitine-fat-metabolizer",
+      "description": "A powerful L-Carnitine supplement to support fat metabolism and energy production.",
+      "excerpt": "Burn fat efficiently with L-Carnitine Fat Metabolizer!",
+      "price": 249000,
+      "tags": ["L-carnitine", "fat burner", "energy"],
+      "thumbnail": "https://image.pollinations.ai/prompt/L-Carnitine%20Fat%20Metabolizer",
+      "images": [
+        "https://image.pollinations.ai/prompt/L-Carnitine%20Fat%20Metabolizer%201",
+        "https://image.pollinations.ai/prompt/L-Carnitine%20Fat%20Metabolizer%202"
+      ]
+    },
+    {
+      "name": "BrainFuel Nootropic",
+      "slug": "brainfuel-nootropic",
+      "description": "A cognitive-boosting supplement to enhance focus and mental clarity.",
+      "excerpt": "Stay sharp and focused with BrainFuel Nootropic!",
+      "price": 319000,
+      "tags": ["nootropic", "brain health", "focus"],
+      "thumbnail": "https://image.pollinations.ai/prompt/BrainFuel%20Nootropic",
+      "images": [
+        "https://image.pollinations.ai/prompt/BrainFuel%20Nootropic%201",
+        "https://image.pollinations.ai/prompt/BrainFuel%20Nootropic%202"
+      ]
+    },
+    {
+      "name": "SleepWell Natural Sleep Aid",
+      "slug": "sleepwell-natural-sleep-aid",
+      "description": "A natural sleep supplement to improve sleep quality and relaxation.",
+      "excerpt": "Get restful sleep with SleepWell Natural Sleep Aid!",
+      "price": 199000,
+      "tags": ["sleep", "relaxation", "melatonin"],
+      "thumbnail": "https://image.pollinations.ai/prompt/SleepWell%20Natural%20Sleep%20Aid",
+      "images": [
+        "https://image.pollinations.ai/prompt/SleepWell%20Natural%20Sleep%20Aid%201",
+        "https://image.pollinations.ai/prompt/SleepWell%20Natural%20Sleep%20Aid%202"
+      ]
+    },
+    {
+      "name": "Beta-Alanine Endurance Formula",
+      "slug": "beta-alanine-endurance-formula",
+      "description": "A high-quality beta-alanine supplement to delay muscle fatigue and enhance performance.",
+      "excerpt": "Train harder with Beta-Alanine Endurance Formula!",
+      "price": 269000,
+      "tags": ["beta-alanine", "endurance", "performance"],
+      "thumbnail": "https://image.pollinations.ai/prompt/Beta-Alanine%20Endurance%20Formula",
+      "images": [
+        "https://image.pollinations.ai/prompt/Beta-Alanine%20Endurance%20Formula%201",
+        "https://image.pollinations.ai/prompt/Beta-Alanine%20Endurance%20Formula%202"
+      ]
+    },
+    {
+      "name": "Probiotic Gut Health",
+      "slug": "probiotic-gut-health",
+      "description": "A powerful probiotic blend to support digestive health and immunity.",
+      "excerpt": "Improve digestion with Probiotic Gut Health!",
+      "price": 229000,
+      "tags": ["probiotic", "gut health", "digestion"],
+      "thumbnail": "https://image.pollinations.ai/prompt/Probiotic%20Gut%20Health",
+      "images": [
+        "https://image.pollinations.ai/prompt/Probiotic%20Gut%20Health%201",
+        "https://image.pollinations.ai/prompt/Probiotic%20Gut%20Health%202"
+      ]
+    },
+    {
+      "name": "PlantPower Vegan Protein",
+      "slug": "plantpower-vegan-protein",
+      "description": "A plant-based protein blend for muscle recovery and overall wellness.",
+      "excerpt": "Stay strong with PlantPower Vegan Protein!",
+      "price": 459000,
+      "tags": ["vegan protein", "plant-based", "muscle recovery"],
+      "thumbnail": "https://image.pollinations.ai/prompt/PlantPower%20Vegan%20Protein",
+      "images": [
+        "https://image.pollinations.ai/prompt/PlantPower%20Vegan%20Protein%201",
+        "https://image.pollinations.ai/prompt/PlantPower%20Vegan%20Protein%202"
+      ]
+    }
+  ]
+}
